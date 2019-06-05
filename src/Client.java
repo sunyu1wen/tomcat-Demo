@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author ${bocai}
  * @version V1.0
  * @ClassName: ${file_name}
- * @Description: ${todo}(客户端调用目标端口)
+ * @Description: ${todo}(客户端调用server)
  * @Date ${date} ${time}
  */
 public class Client {
