@@ -5,10 +5,10 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
- * @author ${user}
+ * @author ${bocai}
  * @version V1.0
  * @ClassName: ${file_name}
- * @Description: ${todo}(用一句话描述该文件做什么)
+ * @Description: ${todo}(客户端调用目标端口)
  * @Date ${date} ${time}
  */
 public class Client {
